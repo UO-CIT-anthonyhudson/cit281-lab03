@@ -10,4 +10,4 @@ In this lab we:
 - Practice importing a Node.js compatible code module using require
 - Examine code using the spread operator
 
-In this lab I learned how to refactor and destructure code. I also learned about the for..in and for..of methods. 
+In this lab I learned how to refactor and destructure code. I also learned about the for..in and for..of methods. I also refined my skills with the arrow functions we learned earlier in the minor. 
